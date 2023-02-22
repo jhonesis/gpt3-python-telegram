@@ -37,6 +37,6 @@ PyCharm: una aplicación de pago que incluye un intérprete de Python, un editor
 
 En mi caso utilice pydroid 3, aqui unos screenshot
 
-<img src="1.png">
+<img src="a.png">
 
-<img src="2.png">
+<img src="b.png">
